@@ -2,6 +2,7 @@
 
 
 # Machine Learning Project : "Book Recommendation System by using Cosine Similarity Machine Learning Model"
+### ~ Research Paper link is also attached.
 
 
 # What is the Purpose of this Project?
@@ -14,13 +15,15 @@ This Recommendation System is used in many Tech products and services; This Cosi
 
 # ML Model Code
 
-[Model & Analytics.ipynb](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction/blob/main/Model%20%26%20Analytics.ipynb)
+[Machine Learning Model](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/book-recommender-system.ipynb)
 
-[Model & Prediction.ipynb](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction/blob/main/Model%20%26%20Prediction.ipynb)
+[Research Paper Link](https://ijrpr.com/uploads/V5ISSUE5/IJRPR28293.pdf)
 
 # Dataset for Training Model
 
-[WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+[books.zip - zip files](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Books.zip)
+[ratings.csv](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Ratings.csv)
+[users.csv](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Users.csv)
 
 ## Tech Stack
 
