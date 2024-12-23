@@ -38,7 +38,7 @@ This Recommendation System is used in many Tech products and services; This Cosi
 
 Here are some related projects
 
-[Credit Card Analytical Report using Power BI](https://github.com/mokshverma-dev/Credit-Card-Analytical-Resport-using-Power-BI/tree/main)
+[Loan Approval Prediction Model](https://github.com/mokshverma-dev/loan-approval-prediction-model)
 
 
 ## Authors
