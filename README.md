@@ -25,6 +25,10 @@ This Recommendation System is used in many Tech products and services; This Cosi
 [ratings.csv](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Ratings.csv)
 [users.csv](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Users.csv)
 
+# PowerPoint Presentation File
+
+[PPT File Link](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Book%20Recommendation%20System.pptx)
+
 ## Tech Stack
 
 **Code Editor:**   Jupyter Notebook
