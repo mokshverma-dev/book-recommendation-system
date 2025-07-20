@@ -49,6 +49,8 @@ Here are some related projects
 
 [Loan Approval Prediction Model](https://github.com/mokshverma-dev/loan-approval-prediction-model)
 
+[Portfolio Optimization](https://github.com/mokshverma-dev/portfolio-optimization)
+
 
 ## Authors
 
