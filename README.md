@@ -13,6 +13,11 @@ Cosine Similarity is Mathematical Concept which is used to calculate inner dista
 
 This Recommendation System is used in many Tech products and services; This Cosine Similarity algorithm is a new way of categorising items and used in **Product Based Companies**.
 
+## Book Recommendation System Mode - Paper MindMap
+
+Paper MindMap
+![Book Recommendation System Mode - Paper MindMap](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/Book%20Recommendation%20System%20-%20Paper%20MindMap.png)
+
 # ML Model Code
 
 [Machine Learning Model](https://github.com/mokshverma-dev/book-recommendation-system/blob/main/book-recommender-system.ipynb)
